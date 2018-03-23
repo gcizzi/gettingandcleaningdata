@@ -13,4 +13,4 @@ run.analysis.R - a script that performs the required data analysis:
    
  averages.txt - a tidy data set, the output of run.analysis.R
  
- codebook.MD - a document that describes the variables used in averages.txt
+ codebook.md - a document that describes the variables used in averages.txt
