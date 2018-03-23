@@ -39,10 +39,10 @@ These signals were used to estimate variables of the feature vector for each pat
 
 A large set of variables were estimated from these above signals, only two of which were kept for the final averages.txt data set: 
 
-mean(): Mean value
-std(): Standard deviation
+  * mean(): Mean value
+  * std(): Standard deviation
 
-In addition, the following substituions were made to clarify these variables names:
+In addition, the following substitutions were made to clarify these variables names:
 
   * leading "t"s were substituted for "Time:"
   * leading "f"s were substituted "Frequency:"
